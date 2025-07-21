@@ -1,5 +1,4 @@
 # Student Performance Tracker – Full Stack Web App (Next.js & MongoDB)
-#  Student Performance Tracker – Full Stack Web App
 
 A full-stack web application built using **Next.js (App Router)**, **MongoDB Atlas**, and **JWT authentication** to manage and analyze student performance data. The app supports **role-based dashboards** for students and teachers, real-time analysis, and CRUD operations.
 
